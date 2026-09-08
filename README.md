@@ -19,3 +19,4 @@ Windows, Linux ve macOS'ta çalışan, modüler bir siber güvenlik ve OSINT ara
    ```cmd
    git clone https://github.com/ph42boxpvp-web/PHL5.git
    cd PHL5
+python phl5.py (bunuda cloneden sonra)
